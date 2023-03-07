@@ -6,6 +6,3 @@ int main(){
 int nqgit ;
 cin>>n;
 
-int ans=0;
-int digit;
-int i=0;
